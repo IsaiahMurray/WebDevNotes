@@ -9,8 +9,8 @@ const foods = [
     { name: "bell pepper", price: 25 },
   ];
 
-  const hasBeef = foods.some((item) => {
-  return item.name === 'beef'
+  const hasBeef = foods.some((food) => {
+  return food.name === 'beef'
 })
 console.log(hasBeef);
 
