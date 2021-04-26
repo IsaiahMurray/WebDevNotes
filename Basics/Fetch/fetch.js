@@ -38,7 +38,9 @@ async function fetchRick() {
 
   fetchRick();
 
-  async function fetchAlienMorty() {
+  //* E6 Async Fetch with Try and Catch
+
+  const fetchAlienMorty = async() =>  {
     try{
       let response = await fetch((`https://rickandmortyapi.com/api/character`));
       let json = await response.json();
