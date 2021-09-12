@@ -11,7 +11,7 @@ let person = {
     }
 }
 
-//arrays us square bois
+//arrays use square bois
 
 let fruits = ['apple', 'orange', 'banana'];
 
