@@ -1,5 +1,5 @@
 //! The .includes method checks if the array 'includes' a certain value/object,
-//! then rturns true or false
+//! then returns true or false
 
 const nums = [1, 2, 3, 4, 5];
 
