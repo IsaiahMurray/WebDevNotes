@@ -21,5 +21,5 @@ console.log(foodNames);
 /*
 ? 1 => We call the .map method on the foods array and pass in a singular "food" object from the array
 ! 2 => We tell it to 'step into' the food object and look at the name property, 
-!then return it to the foodNames array
+! then return it to the foodNames array
   */
