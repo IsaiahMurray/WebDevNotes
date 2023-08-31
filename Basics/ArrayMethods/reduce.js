@@ -26,7 +26,7 @@ console.log(total);
 /*
 ! 1 => This method takes in two parameters. 
 ! The first will be the current sum of the numbers at each iteration.
-! The second will be what we are item we are iterating over
+! The second will be what item we are iterating over
 
 ! 2 => So we will look at the price of food object, then add it to the current total
 ! Then do it over and over again until it has gone through each item in the array
